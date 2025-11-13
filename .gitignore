@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Node/npm (if you ever experiment locally)
+node_modules/
+npm-debug.log
+
+# Python virtual environments (in case you run scripts)
+.venv/
+__pycache__/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# OS trash and temp
+Thumbs.db
